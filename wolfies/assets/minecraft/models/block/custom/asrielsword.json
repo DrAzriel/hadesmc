@@ -1,0 +1,36 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "minecraft:item/handheld",
+	"textures": {
+		"1": "item/custom/chaossabre",
+		"particle": "item/custom/chaossabre"
+	},
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [69.5, 90, -22],
+			"translation": [0.5, 7.5, 1.75],
+			"scale": [0.96, 0.96, 0.45]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [-39, -92.5, -87.5],
+			"translation": [0.25, 7.5, 1.75],
+			"scale": [0.96, 0.96, 0.45]
+		},
+		"firstperson_righthand": {
+			"rotation": [0, 79, 0],
+			"translation": [1.75, 6.25, -2],
+			"scale": [0.9, 0.9, 0.3]
+		},
+		"firstperson_lefthand": {
+			"rotation": [0, -106, 0],
+			"translation": [2.75, 6.25, -2.5],
+			"scale": [0.9, 0.9, 0.3]
+		},
+		"ground": {
+			"translation": [0, 4, 0]
+		},
+		"fixed": {
+			"translation": [0, 0, 1]
+		}
+	}
+}
